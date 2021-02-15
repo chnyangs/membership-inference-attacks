@@ -33,6 +33,7 @@ Membership Inference Attack against Machine Learning Models. [Paper](https://www
 
 
 <hr/>
+
 ## [WWW 2021](#Papers)
 
 Graph Embedding for Recommendation against Attribute Inference. [Paper](https://arxiv.org/pdf/2101.12549.pdf) | 
@@ -76,7 +77,7 @@ Knock knock, who's there? Membership inference on aggregate location data. [Pa
 ## [EuroSP 2020](#Papers)
 Membership Inference Against DNA Methylation Databases. [Paper](https://ieeexplore.ieee.org/document/9230417)
 
-Understanding Membership Inferences on Well-Generalized Learning Models. [Paper] (https://arxiv.org/pdf/1802.04889.pdf)
+Understanding Membership Inferences on Well-Generalized Learning Models. [Paper](https://arxiv.org/pdf/1802.04889.pdf)
 
 ## [EuroSP 2019](#Papers)
 
@@ -95,7 +96,7 @@ Privacy Risks of Securing Machine Learning Models against Adversarial Examples. 
 
 
 ## [CCS 2018](#Papers)
-Machine learning with membership privacy using adversarial regularization. [Paper] (https://dl.acm.org/doi/pdf/10.1145/3243734.3243855) | [Code](https://github.com/SPIN-UMass/ML-Privacy-Regulization)
+Machine learning with membership privacy using adversarial regularization. [Paper](https://dl.acm.org/doi/pdf/10.1145/3243734.3243855) | [Code](https://github.com/SPIN-UMass/ML-Privacy-Regulization)
 
 Property inference attacks on fully connected neural networks using permutation invariant representations. [Paper](https://dl.acm.org/doi/pdf/10.1145/3243734.3243834) | [Code]()
 
