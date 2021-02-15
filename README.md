@@ -10,7 +10,7 @@ Membership Inference Attack against Machine Learning Models. [Paper](https://www
 | ---------- |-----------------------| -----------------------|-----------------------|-----------------------|
 | WWW        | [WWW'21](#WWW-2021) |  - | - | - |
 | USENIX     | [USENIX'21](#USENIX-2021)  | [USENIX'20](#USENIX-2020)   | - | [USENIX'18](#USENIX-2018)     
-| NDSS     | - | - |[NDSS'19](#NDSS-2019) | [NDSS'18](#NDSS-2018)   
+| NDSS     | [NDSS'21](#NDSS-2021) | - | [NDSS'19](#NDSS-2019) | [NDSS'18](#NDSS-2018)   
 | EuroSP     | - | [EuroSP'20](#EuroSP-2020)   | - | - |
 | CCS     | - | [CCS'20](#CCS-2020) |[CCS'19](#CCS-2019) | [CCS'18](#CCS-2018) |
 | S&P     | - | [S&P'20](#S&P-2020)   |[S&P'19](#S&P-2019) | - |
@@ -61,6 +61,7 @@ Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning [
 AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning. [Paper](https://arxiv.org/pdf/1805.04810v2.pdf) | [Code](https://github.com/jjy1994/AttriGuard)
 
 ## [NDSS 2021](#Papers)
+Practical Blind Membership Inference Attack via Differential Comparisons [Paper](https://arxiv.org/pdf/2101.01341.pdf) | [Code](https://github.com/hyhmia/BlindMI)
 
 ## [NDSS 2020](#Papers)
 
@@ -149,8 +150,6 @@ Exploiting Transparency Measures for Membership Inference: a Cautionary Tale. [W
 Quantifying and Mitigating Privacy Risks of Contrastive Learning [Paper](https://arxiv.org/pdf/2102.04140.pdf)
 
 Node-Level Membership Inference Attacks Against Graph Neural Networks [Paper](https://arxiv.org/pdf/2102.05429.pdf)
-
-Practical Blind Membership Inference Attack via Differential Comparisons [Paper](https://arxiv.org/pdf/2101.01341.pdf) | [Code](https://github.com/hyhmia/BlindMI)
 
 ML-Doctor: Holistic Risk Assessment of Inference Attacks 
 Against Machine Learning Models [Paper](https://arxiv.org/pdf/2102.02551.pdf)
