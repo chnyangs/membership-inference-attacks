@@ -1,5 +1,5 @@
 # Membership Inference Attack
-Reading List of recent published Membership Inference Attacks related papers.
+Reading List of recent published Membership Inference Attacks related papers (**Updating**).
 
 Membership Inference Attack against Machine Learning Models. [Paper](https://www.cs.cornell.edu/~shmat/shmat_oak17.pdf) | [Code](https://github.com/csong27/membership-inference)
 
@@ -8,13 +8,14 @@ Membership Inference Attack against Machine Learning Models. [Paper](https://www
 
 | Publication |    2021  |     2020  |    2019  |   2018   |
 | ---------- |-----------------------| -----------------------|-----------------------|-----------------------|
-| WWW        | [WWW'21](#WWW-2021) |  [WWW'20](#WWW-2020) |  [WWW'19](#WWW-2019)  | [WWW'18](#WWW-2018)                     |
-| USENIX     | [USENIX'21](#USENIX-2021)  | [USENIX'20](#USENIX-2020)   |[USENIX'19](#USENIX-2019) | [USENIX'18](#USENIX-2018)     
-| NDSS     | [NDSS'21](#NDSS-2021)  | [NDSS'20](#NDSS-2020)   |[NDSS'19](#NDSS-2019) | [NDSS'18](#NDSS-2018)   
-| EuroSP     | [EuroSP'21](#EuroSP-2021)  | [EuroSP'20](#EuroSP-2020)   |[EuroSP'19](#EuroSP-2019) | [EuroSP'18](#EuroSP-2018)
-| CCS     | [CCS'21](#CCS-2021)  | [CCS'20](#CCS-2020)   |[CCS'19](#CCS-2019) | [CCS'18](#CCS-2018)
-| S&P     | [S&P'21](#S&P-2021)  | [S&P'20](#S&P-2020)   |[S&P'19](#S&P-2019) | [S&P'18](#S&P-2018)
-| SPW     | [SPW'21](#SPW-2021)  | [SPW'20](#SPW-2020)   |[SPW'19](#SPW-2019) | [SPW'18](#SPW-2018)
+| WWW        | [WWW'21](#WWW-2021) |  - | - | - |
+| USENIX     | [USENIX'21](#USENIX-2021)  | [USENIX'20](#USENIX-2020)   | - | [USENIX'18](#USENIX-2018)     
+| NDSS     | - | - |[NDSS'19](#NDSS-2019) | [NDSS'18](#NDSS-2018)   
+| EuroSP     | - | [EuroSP'20](#EuroSP-2020)   | - | - |
+| CCS     | - | [CCS'20](#CCS-2020) |[CCS'19](#CCS-2019) | [CCS'18](#CCS-2018) |
+| S&P     | - | [S&P'20](#S&P-2020)   |[S&P'19](#S&P-2019) | - |
+| SPW     | - | - |[SPW'19](#SPW-2019) | - |
+| ICLR     | [ICLR'21](#ICLR-2021)  | -   | - | - |
 | Arxiv      |  [Arxiv'21](#Arxiv-2021) |  [Arxiv'20](#Arxiv-2020) |  [Arxiv'19](#Arxiv-2019)| [Arxiv'18](#Arxiv-2018) | 
 |
 
@@ -66,8 +67,6 @@ AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversar
 ## [NDSS 2019](#Papers)
 
 Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models. [Paper](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-1_Salem_paper.pdf) | [Code](https://github.com/AhmedSalem2/ML-Leaks)
-
-
 
 ## [NDSS 2018](#Papers)
 Knock knock, who's there? Membership inference on aggregate location data. [Paper](https://arxiv.org/pdf/1708.06145.pdf)
@@ -123,6 +122,8 @@ Membership Inference Attacks against
 Adversarially Robust Deep Learning Models. [Paper](https://www.princeton.edu/~pmittal/publications/liwei-dls19.pdf)
 ## [SPW 2018](#Papers)
 
+## [ICLR 2021](#Papers)
+A Comparison of Methods for Neural Network Aggregation [Paper](http://schoolofcomputing.southalabama.edu/~segev/publications/2021_ICLR_Comparison_Methods_Neural_Network.pdf)
 
 ## [ECCV 2020](#Papers)
 Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation. [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680511.pdf)
@@ -156,7 +157,6 @@ Against Machine Learning Models [Paper](https://arxiv.org/pdf/2102.02551.pdf)
 
 Property Inference From Poisoning [Paper](https://arxiv.org/pdf/2101.11073.pdf)
 
-A Comparison of Methods for Neural Network Aggregation [Paper](http://schoolofcomputing.southalabama.edu/~segev/publications/2021_ICLR_Comparison_Methods_Neural_Network.pdf)
 
 ## [Arxiv 2020](#Papers)
 
